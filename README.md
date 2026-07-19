@@ -21,9 +21,9 @@ https://nextflows.ai/
 
 ## Branches
 
-- main
-- feature-1
-- feature-2
+- **main** – The primary branch.
+- **feature-1** – Practice branch for Git operations.
+- **feature-2** – Practice branch used to create and merge a Pull Request.
 
 ## Workflow Completed
 
@@ -33,8 +33,56 @@ https://nextflows.ai/
 4. Updated the README file in both branches.
 5. Pushed both branches to GitHub.
 6. Opened a Pull Request.
-7. Merged the Pull Request successfully.
+7. Reviewed and merged the Pull Request successfully.
+
+## How to Run This Project
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Tala-Saabneh/git-pr-demo.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd git-pr-demo
+```
+
+3. Create a new branch (optional):
+
+```bash
+git checkout -b feature-name
+```
+
+4. Make your changes.
+
+5. Stage and commit the changes:
+
+```bash
+git add .
+git commit -m "Describe your changes"
+```
+
+6. Push the branch to GitHub:
+
+```bash
+git push -u origin feature-name
+```
+
+7. Open a Pull Request on GitHub and merge it into the **main** branch after review.
+
+## Git Commands Practiced
+
+```bash
+git clone
+git checkout -b
+git add .
+git commit -m
+git push
+git checkout
+```
 
 ## Author
 
-Tala Saabneh
+**Tala Saabneh**
