@@ -34,6 +34,9 @@ https://nextflows.ai/
 5. Pushed both branches to GitHub.
 6. Opened a Pull Request.
 7. Merged the Pull Request successfully.
+## Notes
+
+This repository was updated after mentor feedback to improve the documentation and project instructions.
 
 ## Author
 
